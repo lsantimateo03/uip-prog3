@@ -1,0 +1,2 @@
+modo interactivo: Cuando se leen órdenes desde una tty, se dice que el intérprete está en modo interactivo. En este modo, espera a la siguiente orden con el indicador principal, que suele se tres signos `mayor' (">>>" ). Para las líneas adicionales, se utiliza el indicador secundario, por omisión tres puntos ("... "). 
+modo normal: es el que se usa para archivos .py
